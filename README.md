@@ -2,4 +2,5 @@
 - HTML5
 * CSS3
 + JQuery
-Can you VIEW [my portfolio](https://pandacasino.github.io/portfolio/)
+
+Can you view [my portfolio](https://pandacasino.github.io/portfolio/)
